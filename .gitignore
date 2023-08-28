@@ -192,4 +192,15 @@ pyrightconfig.json
 .history
 .ionide
 
+## Type of Files ##
+*.pdf
+*.docx
+*.hwp
+*.pptm
+*.pptx
+*.xls
+*.xlsx
+*.csv
+*.zip
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
